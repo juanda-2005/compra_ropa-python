@@ -1,0 +1,1 @@
+[{"tipo": "Camisa", "nombre": "que", "precio": 200000, "stock": 10, "talla": "m", "tipo_especifico": ""}]
